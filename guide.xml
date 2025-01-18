@@ -1,0 +1,1770 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Kapamilya Channel">
+    <display-name lang="en">Kapamilya Channel</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="A2z">
+    <display-name lang="en">A2z</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tv5">
+    <display-name lang="en">Tv5 PH</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="GMA">
+    <display-name lang="en">GMA</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="GTV">
+    <display-name lang="en">GTV</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="GMA News">
+    <display-name lang="en">GMA News</display-name>
+    <url>http://www.gmanetwork_int.com</url>
+  </channel>
+  <channel id="Pbo">
+    <display-name lang="en">PBO</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cinema One">
+    <display-name lang="en">Cinema One</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="en">Viva Cinema</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cartoon Net Hd">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Thrill">
+    <display-name lang="en">Thrill</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Cinemax">
+    <display-name lang="en">Cinemax</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tapactionflix Hd">
+    <display-name lang="en">Tapaction Flix</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tapmovies Hd">
+    <display-name lang="en">Tap Movies</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Blueant Extreme">
+    <display-name lang="en">Blueant Extreme</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Hbohd">
+    <display-name lang="en">Cg HBO</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Hbosign">
+    <display-name lang="en">Cg HBO Signature</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Hbohits">
+    <display-name lang="en">Cg HBO Hits</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Lotusmacau Prd">
+    <display-name lang="en">Lotus Macau</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Warnertv Hd">
+    <display-name lang="en">Warner TV</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <programme start="20250119001500 +0800" stop="20250119020000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20250119020000 +0800" stop="20250119040000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20250119040000 +0800" stop="20250119060000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20250119060000 +0800" stop="20250119070000 +0800" channel="Kapamilya Channel">
+    <title lang="en">The Healing Eucharist Sunday Mass</title>
+  </programme>
+  <programme start="20250119070000 +0800" stop="20250119072500 +0800" channel="Kapamilya Channel">
+    <title lang="en">Wikaharian</title>
+  </programme>
+  <programme start="20250119072500 +0800" stop="20250119075000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Ready Set Read</title>
+  </programme>
+  <programme start="20250119075000 +0800" stop="20250119081500 +0800" channel="Kapamilya Channel">
+    <title lang="en">Math-dali</title>
+  </programme>
+  <programme start="20250119081500 +0800" stop="20250119084000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Estudyantipid</title>
+  </programme>
+  <programme start="20250119084000 +0800" stop="20250119090000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Wow</title>
+  </programme>
+  <programme start="20250119090000 +0800" stop="20250119120000 +0800" channel="Kapamilya Channel">
+    <title lang="en">KB Family Weekend</title>
+  </programme>
+  <programme start="20250119120000 +0800" stop="20250119141500 +0800" channel="Kapamilya Channel">
+    <title lang="en">ASAP Natin 'To</title>
+  </programme>
+  <programme start="20250119141500 +0800" stop="20250119160000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Kapamilya Sunday Blockbusters</title>
+  </programme>
+  <programme start="20250119160000 +0800" stop="20250119163000 +0800" channel="Kapamilya Channel">
+    <title lang="en">My Puhunan Kaya Mo!</title>
+  </programme>
+  <programme start="20250119163000 +0800" stop="20250119173000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Kuan On One</title>
+  </programme>
+  <programme start="20250119173000 +0800" stop="20250119183000 +0800" channel="Kapamilya Channel">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20250119183000 +0800" stop="20250119191500 +0800" channel="Kapamilya Channel">
+    <title lang="en">Tao Po!</title>
+  </programme>
+  <programme start="20250119191500 +0800" stop="20250119203000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Rainbow Rumble</title>
+  </programme>
+  <programme start="20250119203000 +0800" stop="20250119223000 +0800" channel="Kapamilya Channel">
+    <title lang="en">Mega Blockbusters</title>
+  </programme>
+  <programme start="20250118151500 -0400" stop="20250118171500 -0400" channel="A2z">
+    <title lang="en">Zine Aksyon</title>
+    <desc lang="en">Zine Aksyon.(n)</desc>
+  </programme>
+  <programme start="20250118171500 -0400" stop="20250118181500 -0400" channel="A2z">
+    <title lang="en">TV Patrol Weekend</title>
+    <desc lang="en">TV Patrol Weekend.(n)</desc>
+  </programme>
+  <programme start="20250118181500 -0400" stop="20250118191500 -0400" channel="A2z">
+    <title lang="en">Rated Korina</title>
+    <desc lang="en">Rated Korina.(n)</desc>
+  </programme>
+  <programme start="20250118191500 -0400" stop="20250118203000 -0400" channel="A2z">
+    <title lang="en">Rainbow Rumble</title>
+    <desc lang="en">Rainbow Rumble.(n)</desc>
+  </programme>
+  <programme start="20250118203000 -0400" stop="20250118223000 -0400" channel="A2z">
+    <title lang="en">Mega Blockbusters</title>
+    <desc lang="en">Mega Blockbusters.(n)</desc>
+  </programme>
+  <programme start="20250118223000 -0400" stop="20250119060000 -0400" channel="A2z">
+    <title lang="en">Jesus The Healer</title>
+    <desc lang="en">Jesus The Healer.(n)</desc>
+  </programme>
+  <programme start="20250119060000 -0400" stop="20250119070000 -0400" channel="A2z">
+    <title lang="en">Shuffle</title>
+    <desc lang="en">Shuffle.(n)</desc>
+  </programme>
+  <programme start="20250119070000 -0400" stop="20250119090000 -0400" channel="A2z">
+    <title lang="en">Jesus Is Lord Sunday Worship And Healing Service</title>
+    <desc lang="en">Jesus Is Lord Sunday Worship And Healing Service.(n)</desc>
+  </programme>
+  <programme start="20250119090000 -0400" stop="20250119093000 -0400" channel="A2z">
+    <title lang="en">Team Yey Sunday Funday</title>
+    <desc lang="en">Team Yey Sunday Funday.(n)</desc>
+  </programme>
+  <programme start="20250119093000 -0400" stop="20250119100000 -0400" channel="A2z">
+    <title lang="en">Wansapanataym</title>
+    <desc lang="en">Wansapanataym.(n)</desc>
+  </programme>
+  <programme start="20250119100000 -0400" stop="20250119120000 -0400" channel="A2z">
+    <title lang="en">Zinema Sa Umaga</title>
+    <desc lang="en">Zinema Sa Umaga.(n)</desc>
+  </programme>
+  <programme start="20250119120000 -0400" stop="20250119141500 -0400" channel="A2z">
+    <title lang="en">ASAP</title>
+    <desc lang="en">ASAP.(n)</desc>
+  </programme>
+  <programme start="20250119141500 -0400" stop="20250119160000 -0400" channel="A2z">
+    <title lang="en">Sunday Blockbusters</title>
+    <desc lang="en">Sunday Blockbusters.(n)</desc>
+  </programme>
+  <programme start="20250119160000 -0400" stop="20250119163000 -0400" channel="A2z">
+    <title lang="en">My Puhunan</title>
+    <desc lang="en">My Puhunan.(n)</desc>
+  </programme>
+  <programme start="20250118153000 -0400" stop="20250118163000 -0400" channel="Tv5">
+    <title lang="en">Singko Serye Specials: Kung Pwede Lang (S01 Ep. 01)</title>
+    <desc lang="en">Singko Serye Specials: Kung Pwede Lang (S01 Ep. 01).(n)</desc>
+  </programme>
+  <programme start="20250118163000 -0400" stop="20250118173000 -0400" channel="Tv5">
+    <title lang="en">Top 5, Mga Kwentong Marc Logan</title>
+    <desc lang="en">Top 5, Mga Kwentong Marc Logan.(n)</desc>
+  </programme>
+  <programme start="20250118173000 -0400" stop="20250118181500 -0400" channel="Tv5">
+    <title lang="en">Frontline Weekend</title>
+    <desc lang="en">Frontline Weekend.(n)</desc>
+  </programme>
+  <programme start="20250118181500 -0400" stop="20250118191500 -0400" channel="Tv5">
+    <title lang="en">Rated Korina</title>
+    <desc lang="en">Rated Korina.(n)</desc>
+  </programme>
+  <programme start="20250118191500 -0400" stop="20250118203000 -0400" channel="Tv5">
+    <title lang="en">Rainbow Rumble</title>
+    <desc lang="en">Rainbow Rumble.(n)</desc>
+  </programme>
+  <programme start="20250118203000 -0400" stop="20250118223000 -0400" channel="Tv5">
+    <title lang="en">Cine Cinco Hit Na Hit: Abay Babes</title>
+    <desc lang="en">Cine Cinco Hit Na Hit: Abay Babes.(n)</desc>
+  </programme>
+  <programme start="20250118223000 -0400" stop="20250118233000 -0400" channel="Tv5">
+    <title lang="en">Second Chances</title>
+    <desc lang="en">Second Chances.(n)</desc>
+  </programme>
+  <programme start="20250118233000 -0400" stop="20250119003000 -0400" channel="Tv5">
+    <title lang="en">Quizmosa Late Night</title>
+    <desc lang="en">Quizmosa Late Night.(n)</desc>
+  </programme>
+  <programme start="20250119003000 -0400" stop="20250119013000 -0400" channel="Tv5">
+    <title lang="en">Oras Ng Himala</title>
+    <desc lang="en">Oras Ng Himala.(n)</desc>
+  </programme>
+  <programme start="20250119013000 -0400" stop="20250119052800 -0400" channel="Tv5">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off.(n)</desc>
+  </programme>
+  <programme start="20250119052800 -0400" stop="20250119053000 -0400" channel="Tv5">
+    <title lang="en">Sign On</title>
+    <desc lang="en">Sign On.(n)</desc>
+  </programme>
+  <programme start="20250119053000 -0400" stop="20250119060000 -0400" channel="Tv5">
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+    <desc lang="en">In Touch With Dr. Charles Stanley.(n)</desc>
+  </programme>
+  <programme start="20250119060000 -0400" stop="20250119070000 -0400" channel="Tv5">
+    <title lang="en">Sunday Tv Mass</title>
+    <desc lang="en">Sunday Tv Mass.(n)</desc>
+  </programme>
+  <programme start="20250119070000 -0400" stop="20250119080000 -0400" channel="Tv5">
+    <title lang="en">Cocomelon / Moonbug (Tag)</title>
+    <desc lang="en">Cocomelon / Moonbug (Tag).(n)</desc>
+  </programme>
+  <programme start="20250119080000 -0400" stop="20250119090000 -0400" channel="Tv5">
+    <title lang="en">Jurassic Park Camp Creataceuous (Tag)</title>
+    <desc lang="en">Jurassic Park Camp Creataceuous (Tag).(n)</desc>
+  </programme>
+  <programme start="20250119090000 -0400" stop="20250119100000 -0400" channel="Tv5">
+    <title lang="en">Fast And Furious: Spyracers (Tag)</title>
+    <desc lang="en">Fast And Furious: Spyracers (Tag).(n)</desc>
+  </programme>
+  <programme start="20250119100000 -0400" stop="20250119120000 -0400" channel="Tv5">
+    <title lang="en">Cine Cinco Weekend Saya: Aso'T Pusa</title>
+    <desc lang="en">Cine Cinco Weekend Saya: Aso'T Pusa.(n)</desc>
+  </programme>
+  <programme start="20250119120000 -0400" stop="20250119141500 -0400" channel="Tv5">
+    <title lang="en">Asap Natin 'To (Live)</title>
+    <desc lang="en">Asap Natin 'To (Live).(n)</desc>
+  </programme>
+  <programme start="20250119141500 -0400" stop="20250119163000 -0400" channel="Tv5">
+    <title lang="en">Cine Cinco Astig Sunday: Hinukay Ko Na Ang Libingan Mo</title>
+    <desc lang="en">Cine Cinco Astig Sunday: Hinukay Ko Na Ang Libingan Mo.(n)</desc>
+  </programme>
+  <programme start="20250119053000 +0800" stop="20250119060000 +0800" channel="GMA">
+    <title lang="en">Key Of David</title>
+  </programme>
+  <programme start="20250119060000 +0800" stop="20250119070000 +0800" channel="GMA">
+    <title lang="en">The Bible</title>
+  </programme>
+  <programme start="20250119070000 +0800" stop="20250119072500 +0800" channel="GMA">
+    <title lang="en">Kung Fu Panda: The Paws Of Destiny</title>
+  </programme>
+  <programme start="20250119072500 +0800" stop="20250119075000 +0800" channel="GMA">
+    <title lang="en">Cardcaptor Sakura</title>
+  </programme>
+  <programme start="20250119075000 +0800" stop="20250119081500 +0800" channel="GMA">
+    <title lang="en">The Amazing Spiez!</title>
+  </programme>
+  <programme start="20250119081500 +0800" stop="20250119090000 +0800" channel="GMA">
+    <title lang="en">Aha!</title>
+  </programme>
+  <programme start="20250119090000 +0800" stop="20250119093500 +0800" channel="GMA">
+    <title lang="en">Born To Be Wild PH</title>
+  </programme>
+  <programme start="20250119093500 +0800" stop="20250119100500 +0800" channel="GMA">
+    <title lang="en">iBilib: Wonders Of Horus</title>
+  </programme>
+  <programme start="20250119100500 +0800" stop="20250119120000 +0800" channel="GMA">
+    <title lang="en">Kapuso Movie Festival</title>
+  </programme>
+  <programme start="20250119120000 +0800" stop="20250119140000 +0800" channel="GMA">
+    <title lang="en">All-Out Sundays</title>
+  </programme>
+  <programme start="20250119140000 +0800" stop="20250119161500 +0800" channel="GMA">
+    <title lang="en">GMA Blockbusters</title>
+  </programme>
+  <programme start="20250119161500 +0800" stop="20250119170000 +0800" channel="GMA">
+    <title lang="en">Regal Studio Presents</title>
+  </programme>
+  <programme start="20250119170000 +0800" stop="20250119173000 +0800" channel="GMA">
+    <title lang="en">Resibo</title>
+  </programme>
+  <programme start="20250119173000 +0800" stop="20250119181500 +0800" channel="GMA">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20250119181500 +0800" stop="20250119191500 +0800" channel="GMA">
+    <title lang="en">BBLGang</title>
+  </programme>
+  <programme start="20250119191500 +0800" stop="20250119201500 +0800" channel="GMA">
+    <title lang="en">Tolome! Walang Matigas Na Pulis sa Matinik Na Misis S3</title>
+  </programme>
+  <programme start="20250119201500 +0800" stop="20250119220500 +0800" channel="GMA">
+    <title lang="en">Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20250119220500 +0800" stop="20250119230000 +0800" channel="GMA">
+    <title lang="en">The Boobay and Tekla Show</title>
+  </programme>
+  <programme start="20250119060000 +0800" stop="20250119063000 +0800" channel="GTV">
+    <title lang="en">Where's Chicky?</title>
+  </programme>
+  <programme start="20250119063000 +0800" stop="20250119070000 +0800" channel="GTV">
+    <title lang="en">Meteo Heroes</title>
+  </programme>
+  <programme start="20250119070000 +0800" stop="20250119073000 +0800" channel="GTV">
+    <title lang="en">Sunny Bunnies</title>
+  </programme>
+  <programme start="20250119073000 +0800" stop="20250119080000 +0800" channel="GTV">
+    <title lang="en">The Good Life With Cory Quirino</title>
+  </programme>
+  <programme start="20250119080000 +0800" stop="20250119083000 +0800" channel="GTV">
+    <title lang="en">Tokyo Revengers</title>
+  </programme>
+  <programme start="20250119083000 +0800" stop="20250119093000 +0800" channel="GTV">
+    <title lang="en">Martin Mystery</title>
+  </programme>
+  <programme start="20250119093000 +0800" stop="20250119103000 +0800" channel="GTV">
+    <title lang="en">Spy X Family</title>
+  </programme>
+  <programme start="20250119103000 +0800" stop="20250119110000 +0800" channel="GTV">
+    <title lang="en">Jujutsu Kaizen</title>
+  </programme>
+  <programme start="20250119110000 +0800" stop="20250119113000 +0800" channel="GTV">
+    <title lang="en">The Worst Witch</title>
+  </programme>
+  <programme start="20250119113000 +0800" stop="20250119120000 +0800" channel="GTV">
+    <title lang="en">Buck</title>
+  </programme>
+  <programme start="20250119120000 +0800" stop="20250119140000 +0800" channel="GTV">
+    <title lang="en">Sine Date Weekends</title>
+  </programme>
+  <programme start="20250119140000 +0800" stop="20250119173000 +0800" channel="GTV">
+    <title lang="en">Afternoon Movie Break</title>
+  </programme>
+  <programme start="20250119173000 +0800" stop="20250119181500 +0800" channel="GTV">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20250119181500 +0800" stop="20250119191500 +0800" channel="GTV">
+    <title lang="en">BBLGang</title>
+  </programme>
+  <programme start="20250119191500 +0800" stop="20250119200000 +0800" channel="GTV">
+    <title lang="en">Farm to Table</title>
+  </programme>
+  <programme start="20250119200000 +0800" stop="20250119204500 +0800" channel="GTV">
+    <title lang="en">I Juander</title>
+  </programme>
+  <programme start="20250119204500 +0800" stop="20250119213000 +0800" channel="GTV">
+    <title lang="en">Biyahe Ni Drew</title>
+  </programme>
+  <programme start="20250119213000 +0800" stop="20250119231500 +0800" channel="GTV">
+    <title lang="en">Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20250118150000 -0400" stop="20250118170000 -0400" channel="Pbo">
+    <title lang="en">Banyo Queen</title>
+    <desc lang="en">Angelie (Rica Peralejo) comes from a family of sorceress. As a tradition, everyone should have a virgin sacrifice before their 18th birthday to escape the curse. With the help of her Aunt Chada (Mystica), she hunts a virgin to stay alive.(n)</desc>
+  </programme>
+  <programme start="20250118170000 -0400" stop="20250118190000 -0400" channel="Pbo">
+    <title lang="en">Revirginized</title>
+    <desc lang="en">Carmela (Sharon Cuneta) gets to enjoy life again in a wild beach party. With young people and a hunk tattoo artist, she drowns herself in alcohol to forget her current self and renew her old self.(n)</desc>
+  </programme>
+  <programme start="20250118190000 -0400" stop="20250118193000 -0400" channel="Pbo">
+    <title lang="en">Anong Ganap?</title>
+    <desc lang="en">Being in on the entertainment circle is quick and easy on PBO's Anong Ganap? Presented by the gorgeous entertainment anchor ng bayan, Phoemela Baranda.(n)</desc>
+  </programme>
+  <programme start="20250118193000 -0400" stop="20250118213000 -0400" channel="Pbo">
+    <title lang="en">My Father, Myself</title>
+    <desc lang="en">A lawyer is left to care for a massacre survivor, who happens to be the son of his former client. His wife and daughter welcome the boy as part of the family. But as the kids get older, the daughter confesses her love for the boy.(n)</desc>
+  </programme>
+  <programme start="20250118213000 -0400" stop="20250118233000 -0400" channel="Pbo">
+    <title lang="en">Matalino Man Ang Matsing, Naiisahan Din!</title>
+    <desc lang="en">Their personalities are as opposite as the two poles, and the worlds they respectively belong to be perpetually at odds. Gener (Eddie Garcia) is an accomplished policeman whose track record in solving crimes is exceptional, while Mando (Willie Revillame ) is a slick con man who has a knack at wearing disguises.(n)</desc>
+  </programme>
+  <programme start="20250118233000 -0400" stop="20250119013000 -0400" channel="Pbo">
+    <title lang="en">Dr. X On The Air</title>
+    <desc lang="en">Joe de Lirio (Leo Martinez) is a sexiologist, but he is better known as a radio personality. In his raunchy but highly rated radio program, \"Dr. X\" he gives out advice to sexually troubled women. But just as Joe is gaining a loyal following among wives, he too is earning the ire of husbands.(n)</desc>
+  </programme>
+  <programme start="20250119013000 -0400" stop="20250119030000 -0400" channel="Pbo">
+    <title lang="en">Gawin Sa Dilim 2</title>
+    <desc lang="en">Traumatized by the tragic death of his girlfriend, Jerome drops out of school and retreats to the province where he opens his own inn. Though still broken-hearted, Jerome settles into his new abode and leads a more serene life.(n)</desc>
+  </programme>
+  <programme start="20250119030000 -0400" stop="20250119050000 -0400" channel="Pbo">
+    <title lang="en">Linlang</title>
+    <desc lang="en">Rich, beautiful and in love, Lance and Lyra are an ideal couple. But the end of their blissful marriage begins when Lance meets Jill. The love triangle distorts their perspectives, and ultimately, it leads to a tragic death.(n)</desc>
+  </programme>
+  <programme start="20250119050000 -0400" stop="20250119080000 -0400" channel="Pbo">
+    <title lang="en">General Emilio Aguinaldo</title>
+    <desc lang="en">General Emilio Aguinaldo is a three-hour epic chronicling his political rise, his rivalries and his struggle against the Spanish and American colonizers. It aims to present a comprehensive narration of his life, achievements and even some controversial issues about him.(n)</desc>
+  </programme>
+  <programme start="20250119080000 -0400" stop="20250119100000 -0400" channel="Pbo">
+    <title lang="en">My Father, Myself</title>
+    <desc lang="en">A lawyer is left to care for a massacre survivor, who happens to be the son of his former client. His wife and daughter welcome the boy as part of the family. But as the kids get older, the daughter confesses her love for the boy.(n)</desc>
+  </programme>
+  <programme start="20250119100000 -0400" stop="20250119110000 -0400" channel="Pbo">
+    <title lang="en">Anong Ganap?</title>
+    <desc lang="en">Being in on the entertainment circle is quick and easy on PBO's Anong Ganap? Presented by the gorgeous entertainment anchor ng bayan, Phoemela Baranda.(n)</desc>
+  </programme>
+  <programme start="20250119110000 -0400" stop="20250119130000 -0400" channel="Pbo">
+    <title lang="en">Nilalang</title>
+    <desc lang="en">Nilalang tackles the underbelly of corrupt Philippine cops with the Japanese 'Yakuza' and its links to a centuries' old curse that may be responsible for the spate of serial killings happening in Manila.(n)</desc>
+  </programme>
+  <programme start="20250119130000 -0400" stop="20250119150000 -0400" channel="Pbo">
+    <title lang="en">Booba</title>
+    <desc lang="en">Rufa Mae stars in this comedy as Booba as she endeavors in the metropolis to fulfill her promise to her dying mother that she will find her jealous and insecure sister who run away from home.(n)</desc>
+  </programme>
+  <programme start="20250119150000 -0400" stop="20250119171500 -0400" channel="Pbo">
+    <title lang="en">Miss Granny</title>
+    <desc lang="en">Fely is an elderly woman who finds second chance at youth after a visit to a mysterious photo studio.(n)</desc>
+  </programme>
+  <programme start="20250119010000 +0800" stop="20250119030000 +0800" channel="Cinema One">
+    <title lang="en">Batang Salabusab</title>
+  </programme>
+  <programme start="20250119030000 +0800" stop="20250119050000 +0800" channel="Cinema One">
+    <title lang="en">Posas</title>
+  </programme>
+  <programme start="20250119050000 +0800" stop="20250119070000 +0800" channel="Cinema One">
+    <title lang="en">Sandata at Pangako</title>
+  </programme>
+  <programme start="20250119070000 +0800" stop="20250119090000 +0800" channel="Cinema One">
+    <title lang="en">Forward March</title>
+  </programme>
+  <programme start="20250119090000 +0800" stop="20250119110000 +0800" channel="Cinema One">
+    <title lang="en">Flames (The Movie)</title>
+  </programme>
+  <programme start="20250119110000 +0800" stop="20250119130000 +0800" channel="Cinema One">
+    <title lang="en">Ayos Lang Pare Ko</title>
+  </programme>
+  <programme start="20250119130000 +0800" stop="20250119150000 +0800" channel="Cinema One">
+    <title lang="en">Dalaw</title>
+  </programme>
+  <programme start="20250119150000 +0800" stop="20250119170000 +0800" channel="Cinema One">
+    <title lang="en">Talk Back and You're Dead</title>
+  </programme>
+  <programme start="20250119170000 +0800" stop="20250119190000 +0800" channel="Cinema One">
+    <title lang="en">The Hows Of Us</title>
+  </programme>
+  <programme start="20250119190000 +0800" stop="20250119210000 +0800" channel="Cinema One">
+    <title lang="en">I Love You, Hater</title>
+  </programme>
+  <programme start="20250119210000 +0800" stop="20250119230000 +0800" channel="Cinema One">
+    <title lang="en">Dreamboy</title>
+  </programme>
+  <programme start="20250118160000 -0400" stop="20250118180000 -0400" channel="Viva">
+    <title lang="en">Batangueno Kabitenyo</title>
+    <desc lang="en">This is a story of Magno,who is from Batangas and has the ability to attract women like flies.He goes to Manila hoping to change.(n)</desc>
+  </programme>
+  <programme start="20250118180000 -0400" stop="20250118200000 -0400" channel="Viva">
+    <title lang="en">Hanggang Ngayo'y Ika'y Minamahal</title>
+    <desc lang="en">She loves her husband despite his irresponsible ways.She continues to stand by him despite his flaws.(n)</desc>
+  </programme>
+  <programme start="20250118200000 -0400" stop="20250118223000 -0400" channel="Viva">
+    <title lang="en">Bagets 2 (Digitally Enhanced)</title>
+    <desc lang="en">The Bagets were back bringing with them their new friends for merrier and wackier adventures. This time around, the boys went to the province for their vacation and found loads to laugh about, cry about, be scared about, be sick about, just about everything you could think of.(n)</desc>
+  </programme>
+  <programme start="20250118223000 -0400" stop="20250119001500 -0400" channel="Viva">
+    <title lang="en">Send in the Clowns</title>
+    <desc lang="en">Tito, Vic and Joey play the brothers Roberto, Icardo, and Rodrigo. Tired of getting fired from different odd jobs, they decide to make use of their ability to make people laugh by working as clowns in a carnival.(n)</desc>
+  </programme>
+  <programme start="20250119001500 -0400" stop="20250119020000 -0400" channel="Viva">
+    <title lang="en">Nananabik... Sa Iyong Pagbabalik</title>
+    <desc lang="en">A pregnant Evita elopes with Antonio. When Antonio finds work as an overseas contract worker, they dared to hope for a brighter future. When dream interlocks with passion, what price does ambition pay?(n)</desc>
+  </programme>
+  <programme start="20250119020000 -0400" stop="20250119041500 -0400" channel="Viva">
+    <title lang="en">Anino Ni David Crusado</title>
+    <desc lang="en">Three friends --- Macario (George Estregan), Alvaro (Conrad Poe) and David (Dante Varona) dare to lead the farmers in an uprising against the cruel reign of the Montalvos.  But this is cut short as they are ambushed and left to die.(n)</desc>
+  </programme>
+  <programme start="20250119041500 -0400" stop="20250119060000 -0400" channel="Viva">
+    <title lang="en">Segurista</title>
+    <desc lang="en">Made destitute by the eruption of Mount Pinatubo in Central Luzon, Karen decides to work as an insurance underwriter by day and as a guest relation’s officer in a club by night.(n)</desc>
+  </programme>
+  <programme start="20250119060000 -0400" stop="20250119080000 -0400" channel="Viva">
+    <title lang="en">Bridesmaids</title>
+    <desc lang="en">This is the story of four women in the glamorous world of fashion, about their friendships, their loves, and their careers.(n)</desc>
+  </programme>
+  <programme start="20250119080000 -0400" stop="20250119100000 -0400" channel="Viva">
+    <title lang="en">Sana'y Wala Nang Wakas (Digitally Enhanced)</title>
+    <desc lang="en">Three women united by friendship, music and fame. But much that celebrity brought them good things, it too, began to destroy them.(n)</desc>
+  </programme>
+  <programme start="20250119100000 -0400" stop="20250119120000 -0400" channel="Viva">
+    <title lang="en">Alyas Waway</title>
+    <desc lang="en">Waway was the notorious mad killer who ran circles around the people of Metro Manila during the 70's. Based on real-life events and features Cesar Montanos as Waway in one of his best performances.(n)</desc>
+  </programme>
+  <programme start="20250119120000 -0400" stop="20250119140000 -0400" channel="Viva">
+    <title lang="en">Ang Pagbabalik ni Pedro Penduko (Digitally Enhanced)</title>
+    <desc lang="en">Pedro Penduko (Janno Gibbs) who was decreed by a hermit as the savior of the world, which was under an evil curse.  To fulfill his destiny, he had to go back in time and fight with the malevolent pair from hell, Lucifero and Lucifera.(n)</desc>
+  </programme>
+  <programme start="20250119140000 -0400" stop="20250119160000 -0400" channel="Viva">
+    <title lang="en">Captain Barbell (Digitally Enhanced)</title>
+    <desc lang="en">Teng-Teng is an orphan who works by collecting junk from the streets. One day, as a rewards for his good deeds, he was given the magic barbel, which empowers him to be Captain Barbel.(n)</desc>
+  </programme>
+  <programme start="20250119160000 -0400" stop="20250119180000 -0400" channel="Viva">
+    <title lang="en">Isang Bala, Isang Buhay</title>
+    <desc lang="en">Daniel is a hired assasin of Roman who heads a syndicate. He is now torn between choosing to start a new life with Dolores or returning Roman's favors.(n)</desc>
+  </programme>
+  <programme start="20250118155000 -0400" stop="20250118161500 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Tired of monotonous meals, the kids make a plan to sabotage dinner so they can have pizza. // Lincoln and Ronnie Anne have to take care of an egg baby but Lincoln doesn’t trust her with the fragile egg.(n)</desc>
+  </programme>
+  <programme start="20250118161500 -0400" stop="20250118164000 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Bobby fits in great but Ronnie Anne struggles with the smothering nature of their relatives. Little do they know, their mother has a secret motive.(n)</desc>
+  </programme>
+  <programme start="20250118164000 -0400" stop="20250118170000 -0400" channel="Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">Mikey and Genghis Frog are sent into the storm on a supply run to the local market when they encounter the electrifying LEE THE EEL! Now Mikey has to step up and be a LEADER!(n)</desc>
+  </programme>
+  <programme start="20250118170000 -0400" stop="20250118172500 -0400" channel="Nickelodeon">
+    <title lang="en">The Really Loud House</title>
+    <desc lang="en">Clincoln McCloud is back in the movie business. This time they have a star, Lori's boyfriend Bobby. Lori and Bobby break up, and Lincoln and Clyde still have one scene left to shoot! Can The Man with the Plan get Lori and Bobby back together?(n)</desc>
+  </programme>
+  <programme start="20250118172500 -0400" stop="20250118175000 -0400" channel="Nickelodeon">
+    <title lang="en">Danger Force</title>
+    <desc lang="en">When a mysterious new barber attacks Swellview with a string of terrible haircuts, it's up to Danger Force to uncover their identity before their own hair gets chopped.(n)</desc>
+  </programme>
+  <programme start="20250118175000 -0400" stop="20250118181500 -0400" channel="Nickelodeon">
+    <title lang="en">Danger Force</title>
+    <desc lang="en">When Danger Force becomes the newest exhibit at an Alien Zoo, Miles must find a way to break them out before they become alien dinner.(n)</desc>
+  </programme>
+  <programme start="20250118181500 -0400" stop="20250118184000 -0400" channel="Nickelodeon">
+    <title lang="en">The Thundermans</title>
+    <desc lang="en">Phoebe hosts her first sleepover and is caught using telekinesis to save it from being a disaster. After she is punished, she is forced to wear an anklet that prevents her from using her powers so she turns to Max for help.(n)</desc>
+  </programme>
+  <programme start="20250118184000 -0400" stop="20250118190000 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">When the lights go out in the Loud House, the kids entertain themselves by taking turns telling parts of a story. // Lucy and the Morticians' Club try to thwart plans for a school field trip to the beach.(n)</desc>
+  </programme>
+  <programme start="20250118190000 -0400" stop="20250118192500 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Lincoln tries to swap middle school classes after being separated from the gang, but ends up being transferred to Canada. Lori doesn't fit in on any of the college dorm floors. Mom and Dad rush to potty train Lily for preschool.(n)</desc>
+  </programme>
+  <programme start="20250118192500 -0400" stop="20250118195000 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Now the oldest in the house, Leni struggles to follow in Lori's footsteps as the family's babysitter. // Secret agents Lincoln and Clyde investigate the Loud's suspicious new neighbors.(n)</desc>
+  </programme>
+  <programme start="20250118195000 -0400" stop="20250118201000 -0400" channel="Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">Donnie and Wingnut go to restore power to the Lair but get trapped by the East River 3! The water is rising and they're not alone... there's a monster down there with them!(n)</desc>
+  </programme>
+  <programme start="20250118201000 -0400" stop="20250118202500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">The newly reformed \"Clean Bubble\" takes a dishwashing job at the Krusty Krab, where he is tempted by the grime.(n)</desc>
+  </programme>
+  <programme start="20250118202500 -0400" stop="20250118205000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob will do anything to get to meet his newest hero, Kenny The Cat. // Attempting to get more work out of Squidward, Mr. Krabs spins the story of the monstrous Yeti Crab, which eats lazy workers.(n)</desc>
+  </programme>
+  <programme start="20250118205000 -0400" stop="20250118211500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">In order to save money, Mr. Krabs fires SpongeBob. Unable to just “do nothing”, SpongeBob decides to go back to work doing anything, anywhere.(n)</desc>
+  </programme>
+  <programme start="20250118211500 -0400" stop="20250118214000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob tries to take a shortcut to work, but becomes lost along the way. // After failing his driver’s test again, Mr. Krabs decides to teach SpongeBob how to drive himself.(n)</desc>
+  </programme>
+  <programme start="20250118214000 -0400" stop="20250118220000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">After receiving an invitation to a gallery opening, Squidward scrambles to find a friend to take with him. // While trying to order a special sandwich, Patrick gets swept up in the fast paced world of business.(n)</desc>
+  </programme>
+  <programme start="20250118220000 -0400" stop="20250118222500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Mr. Krabs throws a company picnic to boost morale, but Plankton is hosting his own on the same day! // Mr. Krabs regales SpongeBob with tales from his old Navy days.(n)</desc>
+  </programme>
+  <programme start="20250118222500 -0400" stop="20250118223500 -0400" channel="Nickelodeon">
+    <title lang="en">The Casagrandes</title>
+    <desc lang="en">Carlos gets Carl into chess to keep him out of trouble, but Carl takes his rule of the kingdom literally!(n)</desc>
+  </programme>
+  <programme start="20250118223500 -0400" stop="20250118225500 -0400" channel="Nickelodeon">
+    <title lang="en">The Casagrandes</title>
+    <desc lang="en">Ronnie Anne and Sid try to get Yoon Kwan's autograph and Carlota helps Alisa prepare for the Great Lakes City Music Festival!(n)</desc>
+  </programme>
+  <programme start="20250118225500 -0400" stop="20250118232000 -0400" channel="Nickelodeon">
+    <title lang="en">The Casagrandes</title>
+    <desc lang="en">Ronnie Anne and her friends help get Mrs. Kernicky hired as the new PE coach, but her classes are no joke! // When a Sid secret is leaked at school, Ronnie Anne and Sid wonder if they can continue being best buds!(n)</desc>
+  </programme>
+  <programme start="20250118232000 -0400" stop="20250118234000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">After receiving an invitation to a gallery opening, Squidward scrambles to find a friend to take with him. // While trying to order a special sandwich, Patrick gets swept up in the fast paced world of business.(n)</desc>
+  </programme>
+  <programme start="20250118234000 -0400" stop="20250119000500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Mr. Krabs throws a company picnic to boost morale, but Plankton is hosting his own on the same day! // Mr. Krabs regales SpongeBob with tales from his old Navy days.(n)</desc>
+  </programme>
+  <programme start="20250119000500 -0400" stop="20250119003000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">When stray snails start appearing around Bikini Bottom, SpongeBob decides to care for them himself. // To defend Bikini Bottom’s honor, Patrick enters a Krabby Patty eating competition.(n)</desc>
+  </programme>
+  <programme start="20250119003000 -0400" stop="20250119005000 -0400" channel="Nickelodeon">
+    <title lang="en">Monster High</title>
+    <desc lang="en">Watzie and Count Fabulous accidentally stumble into the human world and must work together to make it home safe. // Twlya must complete a rite of passage by pursuing a Night Terror through her friends' nightmares.(n)</desc>
+  </programme>
+  <programme start="20250119005000 -0400" stop="20250119011000 -0400" channel="Nickelodeon">
+    <title lang="en">Monster High</title>
+    <desc lang="en">Draculaura \u0026 Toralei are magically stuck together on Ghoul Spirit Day while Clawdeen \u0026 Frankie track down a Codex. // On Scareer Day, Heath and his dad Hades must work together to save the school from a swarm of vicious pixies.(n)</desc>
+  </programme>
+  <programme start="20250119011000 -0400" stop="20250119013500 -0400" channel="Nickelodeon">
+    <title lang="en">Nicky, Ricky, Dicky \u0026 Dawn</title>
+    <desc lang="en">The Quads are judgmental when it comes to Tom and Anne's plans for the new café, but a wild adventure teaches them not to be so quick to judge.(n)</desc>
+  </programme>
+  <programme start="20250119013500 -0400" stop="20250119015500 -0400" channel="Nickelodeon">
+    <title lang="en">School of Rock</title>
+    <desc lang="en">Principal Mullins installs surveillance cameras in all the classrooms, putting the band’s secret in danger. Dewey, Lawrence and the gang must work together to expertly evade discovery.(n)</desc>
+  </programme>
+  <programme start="20250119015500 -0400" stop="20250119022000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Plankton's giant Chum Bucket glove runs wild in town, but SpongeBob has a handy friend to help them out. // SpongeBob takes his first break ever at work, but how will he spend his precious time?(n)</desc>
+  </programme>
+  <programme start="20250119022000 -0400" stop="20250119024000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Mr. Krabs has an accident and leaves SpongeBob in charge of the Krusty Krab. What could go wrong? // Patrick takes a job at the Goofy Goober when he finds out the employees get free ice cream.(n)</desc>
+  </programme>
+  <programme start="20250119024000 -0400" stop="20250119030500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob watches Mr. Krabs's house while he's away, so he takes extreme measures to make sure no one breaks in. // Squidward is forced to room with Patrick, but his domineering demeanor rubs off on Patrick more than he'd like.(n)</desc>
+  </programme>
+  <programme start="20250119030500 -0400" stop="20250119033000 -0400" channel="Nickelodeon">
+    <title lang="en">The Smurfs</title>
+    <desc lang="en">When Scaredy is afraid a ghost is haunting his house, he asks Handy to secure his home from invasion. // Chef sprains his ankles and has to rely on Greedy to bring his souffle to the Spring Festival.(n)</desc>
+  </programme>
+  <programme start="20250119033000 -0400" stop="20250119035000 -0400" channel="Nickelodeon">
+    <title lang="en">The Smurfs</title>
+    <desc lang="en">Hefty decides to take Timid under his wing and teach him some self confidence. // Smurfette wears herself out by overdoing things, so Lazy teaches her the art of doing nothing.(n)</desc>
+  </programme>
+  <programme start="20250119035000 -0400" stop="20250119041500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Patrick has a coupon for free ice cream, but he'll have to get to the store if he wants to use it! // Krabs buys Squidward's art, but to make a profit on his purchase he'll have to get the artist out of the picture!(n)</desc>
+  </programme>
+  <programme start="20250119041500 -0400" stop="20250119043500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">When a prehistoric Sponge is unfrozen, he causes chaos all over town - and only SpongeBob can communicate with him! // When a flock of clams descend on Bikini Bottom, SpongeBob has to get them out before they ruin the whole town!(n)</desc>
+  </programme>
+  <programme start="20250119043500 -0400" stop="20250119050000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">When his pet amoeba Spot has puppies, Plankton decides to use them in another of his nefarious plots. // Mr. Krabs is too scared to get his physical, but if he doesn't pass, the Krusty Krab will be shut down!(n)</desc>
+  </programme>
+  <programme start="20250119050000 -0400" stop="20250119052000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob watches Mr. Krabs's house while he's away, so he takes extreme measures to make sure no one breaks in. // Squidward is forced to room with Patrick, but his domineering demeanor rubs off on Patrick more than he'd like.(n)</desc>
+  </programme>
+  <programme start="20250119052000 -0400" stop="20250119054500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob cleans out the boating school lighthouse, where he finds a cute but inconvenient companion. // No one in Bikini Bottom is safe from a case of contagious hiccups.(n)</desc>
+  </programme>
+  <programme start="20250119054500 -0400" stop="20250119061000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">The Gal Pals take Pearl to a cabin in the woods for a weekend of silly pranks. // Mr. Krabs has a secret taste for something surprising.(n)</desc>
+  </programme>
+  <programme start="20250119061000 -0400" stop="20250119063500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob and Patrick create their own zoo made entirely of bubbles! // The Krusty Krab goes under emergency quarantine, but no one knows who carries the mysterious illness.(n)</desc>
+  </programme>
+  <programme start="20250119063500 -0400" stop="20250119065500 -0400" channel="Nickelodeon">
+    <title lang="en">The Casagrandes</title>
+    <desc lang="en">Celebrity psychic Ernesto Estrella deems Great Lakes City to be bad luck and Abuela believes him!(n)</desc>
+  </programme>
+  <programme start="20250119065500 -0400" stop="20250119071000 -0400" channel="Nickelodeon">
+    <title lang="en">The Casagrandes</title>
+    <desc lang="en">Hector finds out Vito has a huge tab at the mercado and Vito offers to pay him back - no matter what!(n)</desc>
+  </programme>
+  <programme start="20250119071000 -0400" stop="20250119073500 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Dad and Lincoln get on \"Legends of the Hidden Temple\" and can't wait to for a whole day of father/son bonding. // Lincoln wants to go to the mall but has to watch his younger sisters so he decides to take them to the mall.(n)</desc>
+  </programme>
+  <programme start="20250119073500 -0400" stop="20250119075500 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">The family embarks on a reading challenge at the library but Lola refuses to participate. // When Lincoln discovers the first page of his baby book is blank, he worries his parents are hiding something.(n)</desc>
+  </programme>
+  <programme start="20250119075500 -0400" stop="20250119082000 -0400" channel="Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">Mikey and Genghis Frog are sent into the storm on a supply run to the local market when they encounter the electrifying LEE THE EEL! Now Mikey has to step up and be a LEADER!(n)</desc>
+  </programme>
+  <programme start="20250119082000 -0400" stop="20250119084500 -0400" channel="Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">When the Lair floods, April goes to save Splinter... but he won't leave the sewer! To make matters worse, the mutant called GOLDFIN comes with a warning... stay out of his way, or else!(n)</desc>
+  </programme>
+  <programme start="20250119084500 -0400" stop="20250119090500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob and Patrick get hooked on the latest fad - flying your own brain like a tiny drone! // When SpongeBob \u0026 Patrick play Mermaidman and Barnacleboy, it's all fun and games until their sworn enemies arrive!(n)</desc>
+  </programme>
+  <programme start="20250119090500 -0400" stop="20250119093000 -0400" channel="Nickelodeon">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">The Star family finds themselves getting smaller and smaller. // Patrick's evil twin cousin shows up to ruin Patrick' reputation.(n)</desc>
+  </programme>
+  <programme start="20250119093000 -0400" stop="20250119095500 -0400" channel="Nickelodeon">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">Tinkle, Ouchie, and Pinkeye must venture back home together after being taken away by mistake. // Patrick gets injured, so his family members take turns hosting the show.(n)</desc>
+  </programme>
+  <programme start="20250119095500 -0400" stop="20250119102000 -0400" channel="Nickelodeon">
+    <title lang="en">The Casagrandes</title>
+    <desc lang="en">Ronnie Anne and Bobby have to deal with an old friend of Arturo's-Al the Alpaca, but Al has it out for the kids. // Abuelo helps CJ build a rocket, but when things aren't going well, Abuelo tells a little fib to preserve CJ's feelings.(n)</desc>
+  </programme>
+  <programme start="20250119102000 -0400" stop="20250119104000 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">When Lily starts misbehaving at home, Mom and Dad think her new preschool friends might be the cause. // When Rusty is wrongfully suspended, the Action News Team leaps into action to clear his name.(n)</desc>
+  </programme>
+  <programme start="20250119104000 -0400" stop="20250119105500 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">When Carol Pingrey's photo gets more likes on social media than Lori's she tries to one-up her.(n)</desc>
+  </programme>
+  <programme start="20250119105500 -0400" stop="20250119111500 -0400" channel="Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">The origin of the woman called BISHOP! Why does she hate mutants? What is the secret of the Mechazoids? And exactly what happened the night the Turtles fell into Bishop's trap?(n)</desc>
+  </programme>
+  <programme start="20250119111500 -0400" stop="20250119114000 -0400" channel="Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">The Turtles take the fight to Bishop but she's ready for them... get ready for MECHA-BIHSOP! But when the Mechazoids go out of control, can the Turtles save humanity?(n)</desc>
+  </programme>
+  <programme start="20250119114000 -0400" stop="20250119120500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">'The Sharks' are the toughest guys in town, but their next confrontation might be too much for SpongeBob to handle. // Plankton clones SpongeBob in an effort to steal Krabs’ secret formula, but original Bob might ruin his plans.(n)</desc>
+  </programme>
+  <programme start="20250119120500 -0400" stop="20250119123000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">When customers bring pets into the Krusty Krab, Mr. Krabs soon realizes pets are more profitable than owners. // Plankton ruins another date with Karen, so she puts the Chum Bucket on lockdown until he proves his affection.(n)</desc>
+  </programme>
+  <programme start="20250119123000 -0400" stop="20250119125500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob and Patrick make it their mission to reunite the recently fires robot band from Goofy Goober's. // Patrick is sent to the pound for acting like a worm, but he won't be able to leave unless SpongeBob can train him.(n)</desc>
+  </programme>
+  <programme start="20250119125500 -0400" stop="20250119131500 -0400" channel="Nickelodeon">
+    <title lang="en">Danger Force</title>
+    <desc lang="en">Volt and ShoutOut hatch a plan to stop their super-clinger fan from making false alarm emergency calls.(n)</desc>
+  </programme>
+  <programme start="20250119131500 -0400" stop="20250119134000 -0400" channel="Nickelodeon">
+    <title lang="en">Henry Danger</title>
+    <desc lang="en">Captain Man and Kid Danger are going to need a little bit of magic and some help from an old friend if they want to catch a thief.(n)</desc>
+  </programme>
+  <programme start="20250119134000 -0400" stop="20250119140500 -0400" channel="Nickelodeon">
+    <title lang="en">The Really Loud House</title>
+    <desc lang="en">Lincoln and Clyde find themselves outmatched in the ultimate prank war, meanwhile Lisa takes on a new \"sport\" with some help from Lynn Jr.(n)</desc>
+  </programme>
+  <programme start="20250119140500 -0400" stop="20250119143000 -0400" channel="Nickelodeon">
+    <title lang="en">The Really Loud House</title>
+    <desc lang="en">Mom and Dad attempt to enjoy a day to themselves by pairing up all of the Loud siblings with each other for the day.(n)</desc>
+  </programme>
+  <programme start="20250119143000 -0400" stop="20250119145000 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Gary is given a set of limbs to keep up with SpongeBob, but soon makes his owner look sluggish by comparison. // Plankton practices ruling the world by shrinking himself down and declaring himself king of SpongeBob's aquarium.(n)</desc>
+  </programme>
+  <programme start="20250119145000 -0400" stop="20250119150500 -0400" channel="Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob learns that \"imitation is the sincerest form of flattery\" - too bad no one told him how to stop!(n)</desc>
+  </programme>
+  <programme start="20250119150500 -0400" stop="20250119153000 -0400" channel="Nickelodeon">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">The Patrick Star Show is interrupted by a most peculiar stench. // Squidina hires an assistant who's a little too good at his job.(n)</desc>
+  </programme>
+  <programme start="20250119153000 -0400" stop="20250119155000 -0400" channel="Nickelodeon">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">The Star Family heads to their favorite resort. // Bunny goes on a mid-day adventure to a forgotten age.(n)</desc>
+  </programme>
+  <programme start="20250119155000 -0400" stop="20250119161500 -0400" channel="Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Afraid they'll be forgotten, Lincoln and Clyde want to make a splash in the yearbook and crash group photos. // Seeing his sisters fight with their roommates, Lincoln suggests a room shuffle based on a compatibility test.(n)</desc>
+  </programme>
+  <programme start="20250118160000 -0400" stop="20250118163000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Mr Bean ends up on stage at the opera house...in a dress!(n)</desc>
+  </programme>
+  <programme start="20250118163000 -0400" stop="20250118170000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Tiny Toons Looniversity</title>
+    <desc lang="en">Rivals Buster and Plucky decide to throw an epic pizza party and are shocked to find out they’re actually getting along while Babs and Sweetie get into their first roommate disagreement.(n)</desc>
+  </programme>
+  <programme start="20250118170000 -0400" stop="20250118173000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Ninjago: Dragons Rising</title>
+    <desc lang="en">Cole and Zane deliver Bonzle to her creator in Mysterium and discover they were followed, as the Blood Moon rises, cutting the Ninja’s training short.(n)</desc>
+  </programme>
+  <programme start="20250118173000 -0400" stop="20250118180000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Totally Spies!</title>
+    <desc lang="en">New mission, new city but after a long summer of no action the Spies are worried they may have lost their edge. As they fumble in their fight against a giant robot panda unleashing frozen terror in the streets of Singapore could they get fired?(n)</desc>
+  </programme>
+  <programme start="20250118180000 -0400" stop="20250118182500 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Mechamato</title>
+    <desc lang="en">Amato and friends rush to help put out a fire, but they start to suspect that someone or something may be behind it.(n)</desc>
+  </programme>
+  <programme start="20250118182500 -0400" stop="20250118190000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">Robin tries to tell some tall tales but the other Titans give their own fractured versions instead.(n)</desc>
+  </programme>
+  <programme start="20250118190000 -0400" stop="20250118193000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">The Amazing World Of Gumball: Darwin's Yearbook</title>
+    <desc lang="en">Darwin wants to put Alan on the cover of the school yearbook - but Alan’s apparent modesty gets in the way. Featuring hilarious clips from the first six seasons of ‘The Amazing World of Gumball’.(n)</desc>
+  </programme>
+  <programme start="20250118193000 -0400" stop="20250118203500 -0400" channel="Cartoon Net Hd">
+    <title lang="en">The Amazing World Of Gumball</title>
+    <desc lang="en">Gumball experiences an impossibly unfortunate chain of events.(n)</desc>
+  </programme>
+  <programme start="20250118203500 -0400" stop="20250118210000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">The Girls Night Out crew decide to stay in and have a slumber party, but an unknown alien threat descends on Jump City.(n)</desc>
+  </programme>
+  <programme start="20250118210000 -0400" stop="20250118213000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">My Adventures With Superman</title>
+    <desc lang="en">Lois uncovers a secret in Metropolis and is determined to get to the truth. Meanwhile, Superman tracks down dangerous weapons in the city…and finds himself in the crosshairs of mysterious organization Task Force X.(n)</desc>
+  </programme>
+  <programme start="20250118213000 -0400" stop="20250118215500 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Lego Dreamzzz</title>
+    <desc lang="en">To craft their own hourglasses and become official Dream Chasers for the Night Bureau, Mateo and his friends must defeat the Dream Forge guardian.(n)</desc>
+  </programme>
+  <programme start="20250118215500 -0400" stop="20250118223000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">The Tom And Jerry Show</title>
+    <desc lang="en">Tom serves an evil pirate determined to steal treasure belonging to the village mice until Jerry Van Mouseling foils his plans.(n)</desc>
+  </programme>
+  <programme start="20250118223000 -0400" stop="20250118230000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Adventure Time</title>
+    <desc lang="en">Fionna and Cake go on a cooking adventure to push Cake's art to an all-new level.(n)</desc>
+  </programme>
+  <programme start="20250118230000 -0400" stop="20250118233000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">My Adventures With Superman</title>
+    <desc lang="en">Lois uncovers a secret in Metropolis and is determined to get to the truth. Meanwhile, Superman tracks down dangerous weapons in the city…and finds himself in the crosshairs of mysterious organization Task Force X.(n)</desc>
+  </programme>
+  <programme start="20250118233000 -0400" stop="20250119000000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Regular Show</title>
+    <desc lang="en">The park guys want revenge on Muscle Man for all his terrible gifts.(n)</desc>
+  </programme>
+  <programme start="20250119000000 -0400" stop="20250119010000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Apple \u0026 Onion</title>
+    <desc lang="en">Apple and Onion struggle to ride Gyranoid of the Future, the craziest roller coaster at the carnival.(n)</desc>
+  </programme>
+  <programme start="20250119010000 -0400" stop="20250119020000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Regular Show</title>
+    <desc lang="en">After seeing a commercial on TV, Rigby is inspired to change his name to two completely random words. However, the name he chose was \"Trash Boat\".(n)</desc>
+  </programme>
+  <programme start="20250119020000 -0400" stop="20250119030000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Adventure Time</title>
+    <desc lang="en">Jake tries to broker peace between Rainicorn and Finn.(n)</desc>
+  </programme>
+  <programme start="20250119030000 -0400" stop="20250119040000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Steven Universe</title>
+    <desc lang="en">Amethyst tries to exact revenge with a showdown in the Kindergarten.(n)</desc>
+  </programme>
+  <programme start="20250119040000 -0400" stop="20250119050000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Apple \u0026 Onion</title>
+    <desc lang="en">Apple and Onion struggle to ride Gyranoid of the Future, the craziest roller coaster at the carnival.(n)</desc>
+  </programme>
+  <programme start="20250119050000 -0400" stop="20250119060000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">The Powerpuff Girls</title>
+    <desc lang="en">The Professor makes new friends, but they may be the wrong crowd.(n)</desc>
+  </programme>
+  <programme start="20250119060000 -0400" stop="20250119070000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Mr Bean needs a new passport photograph and goes to incredible lengths to get one.(n)</desc>
+  </programme>
+  <programme start="20250119070000 -0400" stop="20250119072500 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Batwheels</title>
+    <desc lang="en">Bam must learn to adapt and try something new as he’s tasked to dive the Bat Big Rig all the way to Star City, while the Legion of Zoom chases after him.(n)</desc>
+  </programme>
+  <programme start="20250119072500 -0400" stop="20250119080000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Bugs Bunny Builders</title>
+    <desc lang="en">The Looney Builders are hired by Mayor Leghorn to build the venue for the Looney Games. They soon become overwhelmed by the job and must ask for help.(n)</desc>
+  </programme>
+  <programme start="20250119080000 -0400" stop="20250119082500 -0400" channel="Cartoon Net Hd">
+    <title lang="en">We Bare Bears</title>
+    <desc lang="en">The Bears think they have what it takes to make and star in a viral video, but when Nom-Nom decides that they don't, Grizz breaks into the koala's limo in an effort to change his mind.(n)</desc>
+  </programme>
+  <programme start="20250119082500 -0400" stop="20250119090000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">Robin tries again to tell the real origin story of the Teen Titans.(n)</desc>
+  </programme>
+  <programme start="20250119090000 -0400" stop="20250119093000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Totally Spies!</title>
+    <desc lang="en">The hottest digital game in Singapore just got real. The work of a new cybervillain unleashes giant creepy crawlies from it, landing the spies deep in cyber-slime. Will the spies make it through in time for Glitterstar’s mysterious invitation?(n)</desc>
+  </programme>
+  <programme start="20250119093000 -0400" stop="20250119100000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Tiny Toons Looniversity</title>
+    <desc lang="en">It’s the first day at Acme Looniversity, where we find Babs and Buster Bunny as they meet new friends- tough gal Sweetie Bird, kind Hamton J. Pig, and narcissist Plucky Duck who are all kicking off their dreams to become professional toons.(n)</desc>
+  </programme>
+  <programme start="20250119100000 -0400" stop="20250119103000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Ninjago: Dragons Rising</title>
+    <desc lang="en">Cole, Zane, and the Sorceress attempt to lead Bonzle to safety as the Ninja arrive in the Wyldness on the Bounty only to find Ras waiting for them.(n)</desc>
+  </programme>
+  <programme start="20250119103000 -0400" stop="20250119110500 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Clarence</title>
+    <desc lang="en">On a school trip to the Aberdale Natural History Museum, Clarence and Sumo check out the displays, goof around with the exhibits, and even remove a tooth from the T-Rex display.(n)</desc>
+  </programme>
+  <programme start="20250119110500 -0400" stop="20250119113000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Mechamato</title>
+    <desc lang="en">By accident, Amato and MechaBot are transported into a retro video game world, and the only way out is to beat the game.(n)</desc>
+  </programme>
+  <programme start="20250119113000 -0400" stop="20250119115500 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Mechamato</title>
+    <desc lang="en">Amato and friends stay late after school to finish a project, but they soon realize that they are not alone.(n)</desc>
+  </programme>
+  <programme start="20250119115500 -0400" stop="20250119123000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Looney Tunes Cartoons</title>
+    <desc lang="en">Bugs Bunny gets abducted by aliens. Elmer Fudd goes hunting with holograms. Porky’s got a bone to pick with Daffy’s magic act.(n)</desc>
+  </programme>
+  <programme start="20250119123000 -0400" stop="20250119130500 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">Without Cyborg, Beast Boy feels lost and sets out to find himself, but ends up meeting a music legend.(n)</desc>
+  </programme>
+  <programme start="20250119130500 -0400" stop="20250119133000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Lamput</title>
+    <desc lang="en">In an accident with the Shrink Gun, a potted plant grows into a giant beanstalk and takes Lamput and the Docs up with it! It's a world inhabited by a giant and Skinny gets trapped!(n)</desc>
+  </programme>
+  <programme start="20250119133000 -0400" stop="20250119143000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">The Amazing World Of Gumball</title>
+    <desc lang="en">Gumball experiences an impossibly unfortunate chain of events.(n)</desc>
+  </programme>
+  <programme start="20250119143000 -0400" stop="20250119150000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">The Amazing World Of Gumball: Darwin's Yearbook</title>
+    <desc lang="en">Darwin asks Sarah for a photo to put on the cover of the school yearbook. But when Sarah tries to help things get a little sticky. Featuring hilarious clips from the first six seasons of ‘The Amazing World of Gumball’.(n)</desc>
+  </programme>
+  <programme start="20250119150000 -0400" stop="20250119153000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Jellystone!</title>
+    <desc lang="en">Huckleberry Hound hosts a wrestling tournament so that his childhood hero, the Funky Phantom, can relive his glory days.(n)</desc>
+  </programme>
+  <programme start="20250119153000 -0400" stop="20250119160000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Lego Dreamzzz</title>
+    <desc lang="en">With Albert captured by the Night Hunter and Z-Blob detained by Agent Strick, it’s time for a dual rescue in the Waking World and the Dream World!(n)</desc>
+  </programme>
+  <programme start="20250119160000 -0400" stop="20250119163000 -0400" channel="Cartoon Net Hd">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Mr Bean is in a trance – barks like a dog and starts to dance.(n)</desc>
+  </programme>
+  <programme start="20250118150000 -0400" stop="20250118164000 -0400" channel="Thrill">
+    <title lang="en">Midnight Ruins</title>
+    <desc lang="en">Fallen painter Cheng Zihao is asked to investigate the strange events that occurred during the rehearsal of a play \"Song of the Night\" by an old friend. This play was rehearsed by them in the past, and has brought him many pains and nightmares. As Cheng Zihao uncovers the truth, he is shocked by the same story of love and hate after so many years….(n)</desc>
+  </programme>
+  <programme start="20250118164000 -0400" stop="20250118180500 -0400" channel="Thrill">
+    <title lang="en">Detrimental</title>
+    <desc lang="en">You Ji Ren is a blind man who works at a factory in an outlying island. When the factory is cut off from the outside world by a hurricane one day, a monster appears and turns whoever sees it into black shadows. As You cannot see the monster, he is able to help other coworkers leave safely and fight to kill the monster!(n)</desc>
+  </programme>
+  <programme start="20250118180500 -0400" stop="20250118193000 -0400" channel="Thrill">
+    <title lang="en">Red Snow</title>
+    <desc lang="en">Olivia, an outstanding vampire romance novelist, longs to encounter a real vampire. Her wish comes true when Luke turns up at her remote snowbound cabin seeking for help. However, her dream transforms into a chilling nightmare on Christmas Eve when Luke's vampire companions track him down...(n)</desc>
+  </programme>
+  <programme start="20250118193000 -0400" stop="20250118210000 -0400" channel="Thrill">
+    <title lang="en">No. 82 Haunted House</title>
+    <desc lang="en">The eldest son of the Mu family dies suddenly on the eve of his wedding. To rest his soul, a maid Xiao Die is made to marry and then buried alive with him. Since then, Mu's house is haunted by a series of terrifying incidents, and the family's secrets are gradually unveiled when Mu’s youngest daughter return home from abroad with her boyfriend.(n)</desc>
+  </programme>
+  <programme start="20250118210000 -0400" stop="20250118223500 -0400" channel="Thrill">
+    <title lang="en">The Lesson</title>
+    <desc lang="en">Two disrespectful and unruly students act out during their teacher, Mr Gale’s class. Unable to tolerate their behaviour, Mr Gale decides to take the two boys hostage and teach them a lesson that they will never forget.(n)</desc>
+  </programme>
+  <programme start="20250118223500 -0400" stop="20250119000500 -0400" channel="Thrill">
+    <title lang="en">Bell Chamber</title>
+    <desc lang="en">Based on a Thai ghost story of Kuman Thong, the film revolves around a woman who has caused the death of her young brother a long time ago. When she returns to the old house where they lived before, she finds herself haunted by the spirit of her young brother wanting to take revenge for his death.(n)</desc>
+  </programme>
+  <programme start="20250119000500 -0400" stop="20250119013500 -0400" channel="Thrill">
+    <title lang="en">Endless Love</title>
+    <desc lang="en">A young girl encounters a novelist in a bar and quickly falls in love with him. However, it turns out she has fallen into a trap set up by the novelist and his ex-girlfriend who is a ghost with a disfigured face. The journey of revenge and ultimate terror has just begun!(n)</desc>
+  </programme>
+  <programme start="20250119013500 -0400" stop="20250119030500 -0400" channel="Thrill">
+    <title lang="en">Sa Haba Ng Gabi</title>
+    <desc lang="en">Two housemaids and a driver take shelter at their employer's mansion when a zombie outbreak happens one night. Can they all survive the night?(n)</desc>
+  </programme>
+  <programme start="20250119030500 -0400" stop="20250119050000 -0400" channel="Thrill">
+    <title lang="en">Hollow</title>
+    <desc lang="en">Beth, an old woman with early signs of Alzheimer’s disease, moves in to a new house with her daughter’s family. Despite her loss of reality and worsening symptoms, Beth uncovers something sinister observing her every move. A dark and horrific confrontation is about to begin….(n)</desc>
+  </programme>
+  <programme start="20250119050000 -0400" stop="20250119063500 -0400" channel="Thrill">
+    <title lang="en">The Lesson</title>
+    <desc lang="en">Two disrespectful and unruly students act out during their teacher, Mr Gale’s class. Unable to tolerate their behaviour, Mr Gale decides to take the two boys hostage and teach them a lesson that they will never forget.(n)</desc>
+  </programme>
+  <programme start="20250119063500 -0400" stop="20250119080500 -0400" channel="Thrill">
+    <title lang="en">Bell Chamber</title>
+    <desc lang="en">Based on a Thai ghost story of Kuman Thong, the film revolves around a woman who has caused the death of her young brother a long time ago. When she returns to the old house where they lived before, she finds herself haunted by the spirit of her young brother wanting to take revenge for his death.(n)</desc>
+  </programme>
+  <programme start="20250119080500 -0400" stop="20250119093500 -0400" channel="Thrill">
+    <title lang="en">Endless Love</title>
+    <desc lang="en">A young girl encounters a novelist in a bar and quickly falls in love with him. However, it turns out she has fallen into a trap set up by the novelist and his ex-girlfriend who is a ghost with a disfigured face. The journey of revenge and ultimate terror has just begun!(n)</desc>
+  </programme>
+  <programme start="20250119093500 -0400" stop="20250119110500 -0400" channel="Thrill">
+    <title lang="en">Sa Haba Ng Gabi</title>
+    <desc lang="en">Two housemaids and a driver take shelter at their employer's mansion when a zombie outbreak happens one night. Can they all survive the night?(n)</desc>
+  </programme>
+  <programme start="20250119110500 -0400" stop="20250119130000 -0400" channel="Thrill">
+    <title lang="en">Hollow</title>
+    <desc lang="en">Beth, an old woman with early signs of Alzheimer’s disease, moves in to a new house with her daughter’s family. Despite her loss of reality and worsening symptoms, Beth uncovers something sinister observing her every move. A dark and horrific confrontation is about to begin….(n)</desc>
+  </programme>
+  <programme start="20250119130000 -0400" stop="20250119143500 -0400" channel="Thrill">
+    <title lang="en">The Lesson</title>
+    <desc lang="en">Two disrespectful and unruly students act out during their teacher, Mr Gale’s class. Unable to tolerate their behaviour, Mr Gale decides to take the two boys hostage and teach them a lesson that they will never forget.(n)</desc>
+  </programme>
+  <programme start="20250119143500 -0400" stop="20250119160500 -0400" channel="Thrill">
+    <title lang="en">Bell Chamber</title>
+    <desc lang="en">Based on a Thai ghost story of Kuman Thong, the film revolves around a woman who has caused the death of her young brother a long time ago. When she returns to the old house where they lived before, she finds herself haunted by the spirit of her young brother wanting to take revenge for his death.(n)</desc>
+  </programme>
+  <programme start="20250118160000 -0400" stop="20250118173000 -0400" channel="Cg Cinemax">
+    <title lang="en">Everyday People</title>
+    <desc lang="en">The closure of a beloved New York City diner deeply affects its employees and neighbors in this HBO Original Movie.(n)</desc>
+  </programme>
+  <programme start="20250118173000 -0400" stop="20250118194500 -0400" channel="Cg Cinemax">
+    <title lang="en">Bury My Heart At Wounded Knee</title>
+    <desc lang="en">An HBO Original film which explores the impact after the US government wages a campaign to exterminate American Indians.(n)</desc>
+  </programme>
+  <programme start="20250118194500 -0400" stop="20250118220000 -0400" channel="Cg Cinemax">
+    <title lang="en">Spider-Man: Homecoming</title>
+    <desc lang="en">A young Peter Parker/Spider-Man begins to navigate his newfound identity as the web-slinging superhero.(n)</desc>
+  </programme>
+  <programme start="20250118220000 -0400" stop="20250119000000 -0400" channel="Cg Cinemax">
+    <title lang="en">Kandahar</title>
+    <desc lang="en">A CIA agent and his Afghan interpreter evade deadly forces as they escape Iran after a whistleblower reveals the agent destroyed a nuclear facility.(n)</desc>
+  </programme>
+  <programme start="20250119000000 -0400" stop="20250119021500 -0400" channel="Cg Cinemax">
+    <title lang="en">The Matrix</title>
+    <desc lang="en">An average computer programmer trains to become humanity's last hope for survival.(n)</desc>
+  </programme>
+  <programme start="20250119021500 -0400" stop="20250119024500 -0400" channel="Cg Cinemax">
+    <title lang="en">Entourage S5</title>
+    <desc lang="en">After Turtle abandons Vince for a late night rendezvous, Vince gets fired on set and the guys do all they can to get him back in the film.(n)</desc>
+  </programme>
+  <programme start="20250119024500 -0400" stop="20250119041500 -0400" channel="Cg Cinemax">
+    <title lang="en">Cocaine Bear</title>
+    <desc lang="en">In the Georgia forest, a 500-pound predator has ingested a staggering amount of cocaine and gone on a coke-fueled rampage for more blow… and blood.(n)</desc>
+  </programme>
+  <programme start="20250119041500 -0400" stop="20250119060000 -0400" channel="Cg Cinemax">
+    <title lang="en">Insidious: Chapter 2</title>
+    <desc lang="en">The haunted Lambert family seeks to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world.(n)</desc>
+  </programme>
+  <programme start="20250119060000 -0400" stop="20250119070500 -0400" channel="Cg Cinemax">
+    <title lang="en">Watchmen S1</title>
+    <desc lang="en">Series premiere. Detective Angela Abar and Chief Judd Crawford investigate the attempted murder of a Tulsa police officer.(n)</desc>
+  </programme>
+  <programme start="20250119070500 -0400" stop="20250119083500 -0400" channel="Cg Cinemax">
+    <title lang="en">The Enemy Within</title>
+    <desc lang="en">The U.S. President is about to be overthrown in a coup- it's up to the US military's last loyal officer to stop the uprising.(n)</desc>
+  </programme>
+  <programme start="20250119083500 -0400" stop="20250119095500 -0400" channel="Cg Cinemax">
+    <title lang="en">The Goods: Live Hard, Sell Hard</title>
+    <desc lang="en">A used-car liquidator is hired to save a struggling dealership during a Fourth of July weekend sale.(n)</desc>
+  </programme>
+  <programme start="20250119095500 -0400" stop="20250119115500 -0400" channel="Cg Cinemax">
+    <title lang="en">Kandahar</title>
+    <desc lang="en">A CIA agent and his Afghan interpreter evade deadly forces as they escape Iran after a whistleblower reveals the agent destroyed a nuclear facility.(n)</desc>
+  </programme>
+  <programme start="20250119115500 -0400" stop="20250119141000 -0400" channel="Cg Cinemax">
+    <title lang="en">Flight</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.(n)</desc>
+  </programme>
+  <programme start="20250119141000 -0400" stop="20250119155000 -0400" channel="Cg Cinemax">
+    <title lang="en">Little Fockers</title>
+    <desc lang="en">This time, the Fockers and Byrnes brace themselves for the arrival of a baby.(n)</desc>
+  </programme>
+  <programme start="20250119155000 -0400" stop="20250119162000 -0400" channel="Cg Cinemax">
+    <title lang="en">Hollywood On Set S1</title>
+    <desc lang="en">Hollywood On Set S1.(n)</desc>
+  </programme>
+  <programme start="20250118141500 -0400" stop="20250118161000 -0400" channel="Tapactionflix Hd">
+    <title lang="en">The New Daughter</title>
+    <desc lang="en">The New Daughter.(n)</desc>
+  </programme>
+  <programme start="20250118161000 -0400" stop="20250118185000 -0400" channel="Tapactionflix Hd">
+    <title lang="en">No Time To Die</title>
+    <desc lang="en">No Time To Die.(n)</desc>
+  </programme>
+  <programme start="20250118185000 -0400" stop="20250118210000 -0400" channel="Tapactionflix Hd">
+    <title lang="en">Oblivion</title>
+    <desc lang="en">Oblivion.(n)</desc>
+  </programme>
+  <programme start="20250118210000 -0400" stop="20250118223500 -0400" channel="Tapactionflix Hd">
+    <title lang="en">My Father Die</title>
+    <desc lang="en">My Father Die.(n)</desc>
+  </programme>
+  <programme start="20250118223500 -0400" stop="20250119001000 -0400" channel="Tapactionflix Hd">
+    <title lang="en">Evil Dead (2013)</title>
+    <desc lang="en">Evil Dead (2013).(n)</desc>
+  </programme>
+  <programme start="20250119001000 -0400" stop="20250119024000 -0400" channel="Tapactionflix Hd">
+    <title lang="en">Black Hawk Down</title>
+    <desc lang="en">Black Hawk Down.(n)</desc>
+  </programme>
+  <programme start="20250119024000 -0400" stop="20250119044500 -0400" channel="Tapactionflix Hd">
+    <title lang="en">Bad Lieutenant: Port Of Call New Orlean</title>
+    <desc lang="en">Bad Lieutenant: Port Of Call New Orlean.(n)</desc>
+  </programme>
+  <programme start="20250119044500 -0400" stop="20250119072000 -0400" channel="Tapactionflix Hd">
+    <title lang="en">The Da Vinci Code</title>
+    <desc lang="en">The Da Vinci Code.(n)</desc>
+  </programme>
+  <programme start="20250119072000 -0400" stop="20250119092500 -0400" channel="Tapactionflix Hd">
+    <title lang="en">Hellboy II: The Golden Army</title>
+    <desc lang="en">Hellboy II: The Golden Army.(n)</desc>
+  </programme>
+  <programme start="20250119092500 -0400" stop="20250119120000 -0400" channel="Tapactionflix Hd">
+    <title lang="en">Spider-man: No Way Home</title>
+    <desc lang="en">Spider-man: No Way Home.(n)</desc>
+  </programme>
+  <programme start="20250119120000 -0400" stop="20250119134500 -0400" channel="Tapactionflix Hd">
+    <title lang="en">Tremors Shrieker Island</title>
+    <desc lang="en">Tremors Shrieker Island.(n)</desc>
+  </programme>
+  <programme start="20250119134500 -0400" stop="20250119153000 -0400" channel="Tapactionflix Hd">
+    <title lang="en">I Know What You Did Last Summer</title>
+    <desc lang="en">I Know What You Did Last Summer.(n)</desc>
+  </programme>
+  <programme start="20250119153000 -0400" stop="20250119172500 -0400" channel="Tapactionflix Hd">
+    <title lang="en">The Zero Theorem</title>
+    <desc lang="en">The Zero Theorem.(n)</desc>
+  </programme>
+  <programme start="20250118151000 -0400" stop="20250118173500 -0400" channel="Tapmovies Hd">
+    <title lang="en">Spider-Man: Across The Spider-Verse</title>
+    <desc lang="en">Spider-Man: Across The Spider-Verse.(n)</desc>
+  </programme>
+  <programme start="20250118173500 -0400" stop="20250118192000 -0400" channel="Tapmovies Hd">
+    <title lang="en">Bewitched (2005)</title>
+    <desc lang="en">Bewitched (2005).(n)</desc>
+  </programme>
+  <programme start="20250118192000 -0400" stop="20250118210000 -0400" channel="Tapmovies Hd">
+    <title lang="en">The Duke</title>
+    <desc lang="en">The Duke.(n)</desc>
+  </programme>
+  <programme start="20250118210000 -0400" stop="20250118235000 -0400" channel="Tapmovies Hd">
+    <title lang="en">Blade Runner 2049</title>
+    <desc lang="en">Blade Runner 2049.(n)</desc>
+  </programme>
+  <programme start="20250118235000 -0400" stop="20250119013000 -0400" channel="Tapmovies Hd">
+    <title lang="en">Playing It Cool (fka AMST)</title>
+    <desc lang="en">Playing It Cool (fka AMST).(n)</desc>
+  </programme>
+  <programme start="20250119013000 -0400" stop="20250119032000 -0400" channel="Tapmovies Hd">
+    <title lang="en">Last Christmas (2019)</title>
+    <desc lang="en">Last Christmas (2019).(n)</desc>
+  </programme>
+  <programme start="20250119032000 -0400" stop="20250119050500 -0400" channel="Tapmovies Hd">
+    <title lang="en">An Education</title>
+    <desc lang="en">An Education.(n)</desc>
+  </programme>
+  <programme start="20250119050500 -0400" stop="20250119065000 -0400" channel="Tapmovies Hd">
+    <title lang="en">Freaky</title>
+    <desc lang="en">Freaky.(n)</desc>
+  </programme>
+  <programme start="20250119065000 -0400" stop="20250119072000 -0400" channel="Tapmovies Hd">
+    <title lang="en">Hollywood On Set#</title>
+    <desc lang="en">Hollywood On Set#.(n)</desc>
+  </programme>
+  <programme start="20250119072000 -0400" stop="20250119090000 -0400" channel="Tapmovies Hd">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Hotel Transylvania.(n)</desc>
+  </programme>
+  <programme start="20250119090000 -0400" stop="20250119103500 -0400" channel="Tapmovies Hd">
+    <title lang="en">Beethoven's 4TH</title>
+    <desc lang="en">Beethoven's 4TH.(n)</desc>
+  </programme>
+  <programme start="20250119103500 -0400" stop="20250119121500 -0400" channel="Tapmovies Hd">
+    <title lang="en">Naked Singularity</title>
+    <desc lang="en">Naked Singularity.(n)</desc>
+  </programme>
+  <programme start="20250119121500 -0400" stop="20250119141500 -0400" channel="Tapmovies Hd">
+    <title lang="en">Valkyrie</title>
+    <desc lang="en">Valkyrie.(n)</desc>
+  </programme>
+  <programme start="20250119141500 -0400" stop="20250119155500 -0400" channel="Tapmovies Hd">
+    <title lang="en">The Parts You Lose</title>
+    <desc lang="en">The Parts You Lose.(n)</desc>
+  </programme>
+  <programme start="20250119155500 -0400" stop="20250119172000 -0400" channel="Tapmovies Hd">
+    <title lang="en">Trolls World Tour</title>
+    <desc lang="en">Trolls World Tour.(n)</desc>
+  </programme>
+  <programme start="20250118152000 -0400" stop="20250118171500 -0400" channel="Blueant Extreme">
+    <title lang="en">Passengers</title>
+    <desc lang="en">A spacecraft transporting thousands of people to a distant colony planet has a malfunction in one of its sleep chambers. As a result, a single passenger is awakened 90 years before anyone else.(n)</desc>
+  </programme>
+  <programme start="20250118171500 -0400" stop="20250118191500 -0400" channel="Blueant Extreme">
+    <title lang="en">Around The World In 80 Days</title>
+    <desc lang="en">It is 1872, and a British inventor, a Chinese thief and a French artist set off to circumnavigate the globe in 80 days. They travel by land, air, sea, and in-line skates in order to beat the clock and finish where they started.(n)</desc>
+  </programme>
+  <programme start="20250118191500 -0400" stop="20250118205500 -0400" channel="Blueant Extreme">
+    <title lang="en">Salt</title>
+    <desc lang="en">Centers on a CIA officer who is fingered as a Russian sleeper spy. She eludes capture by superiors who are convinced she is out to assassinate the president. While trying to reunite with her family, she struggles to prove someone else is the traitor.(n)</desc>
+  </programme>
+  <programme start="20250118205500 -0400" stop="20250118232500 -0400" channel="Blueant Extreme">
+    <title lang="en">Blade Runner 2049</title>
+    <desc lang="en">K, an officer with the Los Angeles Police Department, unearths a secret that could create chaos. He goes in search of a former blade runner who has been missing for over three decades.(n)</desc>
+  </programme>
+  <programme start="20250118232500 -0400" stop="20250119010500 -0400" channel="Blueant Extreme">
+    <title lang="en">The Crow</title>
+    <desc lang="en">A man brutally murdered comes back to life as an undead avenger of his and his fiancée's murder.(n)</desc>
+  </programme>
+  <programme start="20250119010500 -0400" stop="20250119024500 -0400" channel="Blueant Extreme">
+    <title lang="en">The Eye</title>
+    <desc lang="en">A blind girl receives a cornea transplant so that she is able to see again. However, she gets more than she bargains for when she realizes she can see disturbing ghosts.(n)</desc>
+  </programme>
+  <programme start="20250119024500 -0400" stop="20250119042000 -0400" channel="Blueant Extreme">
+    <title lang="en">Zathura: A Space Adventure</title>
+    <desc lang="en">Two young brothers are drawn into an intergalactic adventure when their house is magically hurtled through space.(n)</desc>
+  </programme>
+  <programme start="20250119042000 -0400" stop="20250119072000 -0400" channel="Blueant Extreme">
+    <title lang="en">King Kong</title>
+    <desc lang="en">Oscar® winner Peter Jackson directs Naomi Watts, Jack Black and Adrien Brody in this cinematic vision filled with non-stop action, terrifying creatures and groundbreaking special effects.(n)</desc>
+  </programme>
+  <programme start="20250119072000 -0400" stop="20250119091500 -0400" channel="Blueant Extreme">
+    <title lang="en">The Bourne Ultimatum</title>
+    <desc lang="en">Jason Bourne (Matt Damon) is back in a non-stop race around the globe from a new generation of skilled CIA operatives as he finally learns the truth behind his mysterious past.(n)</desc>
+  </programme>
+  <programme start="20250119091500 -0400" stop="20250119110000 -0400" channel="Blueant Extreme">
+    <title lang="en">The Bourne Supremacy</title>
+    <desc lang="en">The action continues with Oscar® winner Matt Damon as assassin Jason Bourne in this state-of-the-art espionage thriller packed with some of the most intense chase sequences ever filmed!(n)</desc>
+  </programme>
+  <programme start="20250119110000 -0400" stop="20250119123500 -0400" channel="Blueant Extreme">
+    <title lang="en">Tarzan</title>
+    <desc lang="en">Raised by gorillas in a remote part of Africa, Tarzan must protect his jungle and Jane from greedy New York City businessmen who want to destroy his jungle home for profit in this stunning CGI-animated family adventure.(n)</desc>
+  </programme>
+  <programme start="20250119123500 -0400" stop="20250119154000 -0400" channel="Blueant Extreme">
+    <title lang="en">King Kong</title>
+    <desc lang="en">Oscar® winner Peter Jackson directs Naomi Watts, Jack Black and Adrien Brody in this cinematic vision filled with non-stop action, terrifying creatures and groundbreaking special effects.(n)</desc>
+  </programme>
+  <programme start="20250119154000 -0400" stop="20250119172000 -0400" channel="Blueant Extreme">
+    <title lang="en">Zathura: A Space Adventure</title>
+    <desc lang="en">Two young brothers are drawn into an intergalactic adventure when their house is magically hurtled through space.(n)</desc>
+  </programme>
+  <programme start="20250118151500 -0400" stop="20250118171000 -0400" channel="Cg Hbohd">
+    <title lang="en">New Year'S Eve</title>
+    <desc lang="en">The lives of several couples and singles in New York intertwine over the course of New Year's Eve.(n)</desc>
+  </programme>
+  <programme start="20250118171000 -0400" stop="20250118190000 -0400" channel="Cg Hbohd">
+    <title lang="en">Land Of Bad</title>
+    <desc lang="en">When a Delta Force team is ambushed in enemy territory, their only hope lies with an Air Force drone pilot to guide them through a brutal 48-hour battle for survival.(n)</desc>
+  </programme>
+  <programme start="20250118190000 -0400" stop="20250118210000 -0400" channel="Cg Hbohd">
+    <title lang="en">Crazy Rich Asians</title>
+    <desc lang="en">Chinese-American New Yorker Rachel Chu travels to Singapore with her boyfriend Nick to attend his best friend's wedding. Before long, his secret is out: Nick's family is wealthy, and he's considered the most eligible bachelor in Asia….(n)</desc>
+  </programme>
+  <programme start="20250118210000 -0400" stop="20250118224000 -0400" channel="Cg Hbohd">
+    <title lang="en">Hellboy: The Crooked Man</title>
+    <desc lang="en">Hellboy and a rookie BPRD agent get stranded in 1950s rural Appalachia, only to discover a small community haunted by witches, led by the Crooked Man.(n)</desc>
+  </programme>
+  <programme start="20250118224000 -0400" stop="20250119011000 -0400" channel="Cg Hbohd">
+    <title lang="en">Mission: Impossible - Fallout</title>
+    <desc lang="en">Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.(n)</desc>
+  </programme>
+  <programme start="20250119011000 -0400" stop="20250119025000 -0400" channel="Cg Hbohd">
+    <title lang="en">Expend4Bles</title>
+    <desc lang="en">The Expendables - original and new - are on a mission, this time to Qadhafi’s old chemical weapons plant in Libya to intercept Suharato Rahmat, on his own solo operation to steal nuclear missile detonators for his wicked client, Ocelot.(n)</desc>
+  </programme>
+  <programme start="20250119025000 -0400" stop="20250119042500 -0400" channel="Cg Hbohd">
+    <title lang="en">Torn Hearts</title>
+    <desc lang="en">A band's visit to their idol turns into a series of torment.(n)</desc>
+  </programme>
+  <programme start="20250119042500 -0400" stop="20250119064000 -0400" channel="Cg Hbohd">
+    <title lang="en">Unbroken</title>
+    <desc lang="en">Directed by Angelina Jolie, the movie tells the incredible story of Louis Zamperini, who survived on a raft in the ocean for 47 days.(n)</desc>
+  </programme>
+  <programme start="20250119064000 -0400" stop="20250119080000 -0400" channel="Cg Hbohd">
+    <title lang="en">Scooby-Doo! And Krypto, Too!</title>
+    <desc lang="en">The world's greatest heroes, The Justice League, have mysteriously VANISHED and a terrifying PHANTOM has taken up residence in their famed headquarters, THE HALL OF JUSTICE!(n)</desc>
+  </programme>
+  <programme start="20250119080000 -0400" stop="20250119095500 -0400" channel="Cg Hbohd">
+    <title lang="en">A Thousand And One</title>
+    <desc lang="en">Convinced that she has one last shot on the path to redemption, Ines kidnaps six-year-old Terry from the foster care system.(n)</desc>
+  </programme>
+  <programme start="20250119095500 -0400" stop="20250119115500 -0400" channel="Cg Hbohd">
+    <title lang="en">New Year'S Eve</title>
+    <desc lang="en">The lives of several couples and singles in New York intertwine over the course of New Year's Eve.(n)</desc>
+  </programme>
+  <programme start="20250119115500 -0400" stop="20250119134500 -0400" channel="Cg Hbohd">
+    <title lang="en">One Life</title>
+    <desc lang="en">ONE LIFE tells the true story of Sir Nicholas ‘Nicky’ Winton, a young London broker who rescued 669 children from the Nazis.(n)</desc>
+  </programme>
+  <programme start="20250119134500 -0400" stop="20250119161000 -0400" channel="Cg Hbohd">
+    <title lang="en">Mission: Impossible - Fallout</title>
+    <desc lang="en">Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.(n)</desc>
+  </programme>
+  <programme start="20250118155000 -0400" stop="20250118173500 -0400" channel="Cg Hbosign">
+    <title lang="en">Land Of Gold</title>
+    <desc lang="en">A truck driver finds a young Mexican American girl inside his shipping container and his life takes a turn as he tries to reunite her with her family.(n)</desc>
+  </programme>
+  <programme start="20250118173500 -0400" stop="20250118191500 -0400" channel="Cg Hbosign">
+    <title lang="en">Pu-239</title>
+    <desc lang="en">A worker at a Russian nuclear plant steals a small amount of weapons grade plutonium and tries to sell it on the Moscow black market.(n)</desc>
+  </programme>
+  <programme start="20250118191500 -0400" stop="20250118220000 -0400" channel="Cg Hbosign">
+    <title lang="en">Boyhood</title>
+    <desc lang="en">A drama, shot in documentary style, that tells the story of a parent-child relationship as the boy matures from a first-grader to a college freshman.(n)</desc>
+  </programme>
+  <programme start="20250118220000 -0400" stop="20250119003500 -0400" channel="Cg Hbosign">
+    <title lang="en">Les Misérables - The Movie</title>
+    <desc lang="en">An ex-convict breaks parole to find a new life and redemption but is pursued by an obsessive policeman who will not relent.(n)</desc>
+  </programme>
+  <programme start="20250119003500 -0400" stop="20250119022000 -0400" channel="Cg Hbosign">
+    <title lang="en">Disturbia</title>
+    <desc lang="en">A teenager under house arrest begins spying on his neighbours, one of whom he suspects is a killer.(n)</desc>
+  </programme>
+  <programme start="20250119022000 -0400" stop="20250119040000 -0400" channel="Cg Hbosign">
+    <title lang="en">Little Dixie</title>
+    <desc lang="en">An ex-Special Forces Operative must do whatever it takes to protect his daughter from the cartel.(n)</desc>
+  </programme>
+  <programme start="20250119040000 -0400" stop="20250119060000 -0400" channel="Cg Hbosign">
+    <title lang="en">Four Weddings And A Funeral</title>
+    <desc lang="en">A reserved Englishman meets attractive American at a wedding and falls in love with her, but his inability to express his feelings seems to forestall any possibility of relationship.(n)</desc>
+  </programme>
+  <programme start="20250119060000 -0400" stop="20250119084000 -0400" channel="Cg Hbosign">
+    <title lang="en">Boyhood</title>
+    <desc lang="en">A drama, shot in documentary style, that tells the story of a parent-child relationship as the boy matures from a first-grader to a college freshman.(n)</desc>
+  </programme>
+  <programme start="20250119084000 -0400" stop="20250119093000 -0400" channel="Cg Hbosign">
+    <title lang="en">Shaq S1</title>
+    <desc lang="en">Shaw and the Lakers' continued dominance leads to a 'three-peat,' but soon after comes to a crashing hault.(n)</desc>
+  </programme>
+  <programme start="20250119093000 -0400" stop="20250119102000 -0400" channel="Cg Hbosign">
+    <title lang="en">Shaq S1</title>
+    <desc lang="en">A champion once again in Miami, age and injuries eventually force Shaw to consider the next phase of his life.(n)</desc>
+  </programme>
+  <programme start="20250119102000 -0400" stop="20250119121000 -0400" channel="Cg Hbosign">
+    <title lang="en">Confirmation</title>
+    <desc lang="en">An HBO Original movie about the hearings of a District of Columbia judge, whose nomination came under fire when a former employee accused him of sexual harassment.(n)</desc>
+  </programme>
+  <programme start="20250119121000 -0400" stop="20250119140000 -0400" channel="Cg Hbosign">
+    <title lang="en">Disturbia</title>
+    <desc lang="en">A teenager under house arrest begins spying on his neighbours, one of whom he suspects is a killer.(n)</desc>
+  </programme>
+  <programme start="20250119140000 -0400" stop="20250119154500 -0400" channel="Cg Hbosign">
+    <title lang="en">Ambushed</title>
+    <desc lang="en">A lone policeman must run for his life when he gets assigned to solve the murder of a Ku Klux Klan leader in a small southern town.(n)</desc>
+  </programme>
+  <programme start="20250119154500 -0400" stop="20250119173500 -0400" channel="Cg Hbosign">
+    <title lang="en">Something The Lord Made</title>
+    <desc lang="en">In this HBO Original movie, two men achieve an enormous medical breakthrough that earns one an award and the other, a painful lesson in unequal opportunity.(n)</desc>
+  </programme>
+  <programme start="20250118155000 -0400" stop="20250118173500 -0400" channel="Cg Hbohits">
+    <title lang="en">Mamma Mia!</title>
+    <desc lang="en">Meryl Streep stars in this well-loved musical which follows a girl as she invites three men to her wedding, one of whom she suspects to be her father.(n)</desc>
+  </programme>
+  <programme start="20250118173500 -0400" stop="20250118191000 -0400" channel="Cg Hbohits">
+    <title lang="en">Win A Date With Tad Hamilton!</title>
+    <desc lang="en">A small-town girl wins a date with a male celebrity, sparking a love triangle between her, the celebrity, and her best friend.(n)</desc>
+  </programme>
+  <programme start="20250118191000 -0400" stop="20250118204000 -0400" channel="Cg Hbohits">
+    <title lang="en">Cash Out</title>
+    <desc lang="en">Mason Goddard is a world class master-thief. Believing he has pulled off the perfect heist, his plan is foiled and now he must match wits with a sexy FBI investigator.(n)</desc>
+  </programme>
+  <programme start="20250118204000 -0400" stop="20250118230000 -0400" channel="Cg Hbohits">
+    <title lang="en">The Hunger Games</title>
+    <desc lang="en">A televised fight to the death in which two teenagers from each of the twelve Districts of Panem are chosen at random to compete.(n)</desc>
+  </programme>
+  <programme start="20250118230000 -0400" stop="20250119022000 -0400" channel="Cg Hbohits">
+    <title lang="en">The Lord Of The Rings: The Return Of The King</title>
+    <desc lang="en">The fate of Middle Earth draws to a close in this long-awaited final chapter of the epic trilogy.(n)</desc>
+  </programme>
+  <programme start="20250119022000 -0400" stop="20250119042000 -0400" channel="Cg Hbohits">
+    <title lang="en">Argo</title>
+    <desc lang="en">A daring CIA agent plans a fake movie set-up to rescue six Americans in Tehran.(n)</desc>
+  </programme>
+  <programme start="20250119042000 -0400" stop="20250119062500 -0400" channel="Cg Hbohits">
+    <title lang="en">Champions</title>
+    <desc lang="en">The journey of a former minor-league basketball coach who, after a series of mishaps, is ordered by court to coach a Special Olympics team.(n)</desc>
+  </programme>
+  <programme start="20250119062500 -0400" stop="20250119075500 -0400" channel="Cg Hbohits">
+    <title lang="en">Marcel The Shell With Shoes On</title>
+    <desc lang="en">Marcel, an adorable sea snail who lives alone with his grandmother, seeks to find his lost community with the help of a documentary filmmaker.(n)</desc>
+  </programme>
+  <programme start="20250119075500 -0400" stop="20250119092500 -0400" channel="Cg Hbohits">
+    <title lang="en">Cash Out</title>
+    <desc lang="en">Mason Goddard is a world class master-thief. Believing he has pulled off the perfect heist, his plan is foiled and now he must match wits with a sexy FBI investigator.(n)</desc>
+  </programme>
+  <programme start="20250119092500 -0400" stop="20250119110000 -0400" channel="Cg Hbohits">
+    <title lang="en">Honey</title>
+    <desc lang="en">Honey Daniels is a struggling hip hop dancer who's got all the moves, talent and relentless passion to succeed, and now her dream is just a step away.(n)</desc>
+  </programme>
+  <programme start="20250119110000 -0400" stop="20250119123500 -0400" channel="Cg Hbohits">
+    <title lang="en">Win A Date With Tad Hamilton!</title>
+    <desc lang="en">A small-town girl wins a date with a male celebrity, sparking a love triangle between her, the celebrity, and her best friend.(n)</desc>
+  </programme>
+  <programme start="20250119123500 -0400" stop="20250119155500 -0400" channel="Cg Hbohits">
+    <title lang="en">The Lord Of The Rings: The Return Of The King</title>
+    <desc lang="en">The fate of Middle Earth draws to a close in this long-awaited final chapter of the epic trilogy.(n)</desc>
+  </programme>
+  <programme start="20250119155500 -0400" stop="20250119180000 -0400" channel="Cg Hbohits">
+    <title lang="en">Champions</title>
+    <desc lang="en">The journey of a former minor-league basketball coach who, after a series of mishaps, is ordered by court to coach a Special Olympics team.(n)</desc>
+  </programme>
+  <programme start="20250118160000 -0400" stop="20250118163000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118163000 -0400" stop="20250118165500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118165500 -0400" stop="20250118170000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118170000 -0400" stop="20250118173000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118173000 -0400" stop="20250118175500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118175500 -0400" stop="20250118180000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118180000 -0400" stop="20250118183000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118183000 -0400" stop="20250118185500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118185500 -0400" stop="20250118190000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118190000 -0400" stop="20250118193000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118193000 -0400" stop="20250118195500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118195500 -0400" stop="20250118200000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118200000 -0400" stop="20250118203000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118203000 -0400" stop="20250118205500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118205500 -0400" stop="20250118210000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118210000 -0400" stop="20250118213000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118213000 -0400" stop="20250118220000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118220000 -0400" stop="20250118223000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118223000 -0400" stop="20250118225500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118225500 -0400" stop="20250118230000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118230000 -0400" stop="20250118233000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118233000 -0400" stop="20250118235500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118235500 -0400" stop="20250119000000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119000000 -0400" stop="20250119003000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119003000 -0400" stop="20250119005500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119005500 -0400" stop="20250119010000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119010000 -0400" stop="20250119013000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119013000 -0400" stop="20250119015500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119015500 -0400" stop="20250119020000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119020000 -0400" stop="20250119023000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119023000 -0400" stop="20250119025500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119025500 -0400" stop="20250119030000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119030000 -0400" stop="20250119033000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119033000 -0400" stop="20250119035500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119035500 -0400" stop="20250119040000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119040000 -0400" stop="20250119043000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119043000 -0400" stop="20250119045500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119045500 -0400" stop="20250119050000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119050000 -0400" stop="20250119053000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119053000 -0400" stop="20250119055500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119055500 -0400" stop="20250119060000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119060000 -0400" stop="20250119063000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119063000 -0400" stop="20250119065500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119065500 -0400" stop="20250119070000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119070000 -0400" stop="20250119073000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119073000 -0400" stop="20250119075500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119075500 -0400" stop="20250119080000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119080000 -0400" stop="20250119083000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119083000 -0400" stop="20250119085500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119085500 -0400" stop="20250119090000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119090000 -0400" stop="20250119093000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119093000 -0400" stop="20250119100000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119100000 -0400" stop="20250119103000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119103000 -0400" stop="20250119105500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119105500 -0400" stop="20250119110000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119110000 -0400" stop="20250119113000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119113000 -0400" stop="20250119115500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119115500 -0400" stop="20250119120000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119120000 -0400" stop="20250119123000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119123000 -0400" stop="20250119125500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119125500 -0400" stop="20250119130000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119130000 -0400" stop="20250119133000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119133000 -0400" stop="20250119135500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119135500 -0400" stop="20250119140000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119140000 -0400" stop="20250119143000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119143000 -0400" stop="20250119145500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119145500 -0400" stop="20250119150000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119150000 -0400" stop="20250119153000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119153000 -0400" stop="20250119155500 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119155500 -0400" stop="20250119160000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250119160000 -0400" stop="20250119163000 -0400" channel="Lotusmacau Prd">
+    <title lang="en">Lotus Macau</title>
+    <desc lang="en">Lotus Macau.(n)</desc>
+  </programme>
+  <programme start="20250118160000 -0400" stop="20250118170000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250118170000 -0400" stop="20250118180000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250118180000 -0400" stop="20250118190000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250118190000 -0400" stop="20250118200000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250118200000 -0400" stop="20250118210000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250118210000 -0400" stop="20250118220000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250118220000 -0400" stop="20250118230000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250118230000 -0400" stop="20250119000000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119000000 -0400" stop="20250119010000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119010000 -0400" stop="20250119020000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119020000 -0400" stop="20250119030000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119030000 -0400" stop="20250119040000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119040000 -0400" stop="20250119050000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119050000 -0400" stop="20250119060000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119060000 -0400" stop="20250119070000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119070000 -0400" stop="20250119080000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119080000 -0400" stop="20250119090000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119090000 -0400" stop="20250119100000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119100000 -0400" stop="20250119110000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119110000 -0400" stop="20250119120000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119120000 -0400" stop="20250119130000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119130000 -0400" stop="20250119140000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119140000 -0400" stop="20250119150000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+  <programme start="20250119150000 -0400" stop="20250119160000 -0400" channel="Warnertv Hd">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.(n)</desc>
+  </programme>
+</tv>
