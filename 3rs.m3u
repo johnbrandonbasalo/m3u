@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="hls-3rssine" tvg-name="3rsSinePinoy" tvg-logo="" group-title="3rstv",3rsSinePinoy
+https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="hls-moviebox" tvg-name="3rsMovieBoxPh" tvg-logo="" group-title="3rstv",3rsMovieBoxPh
+https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="hls-3rstv" tvg-name="3RsTV" tvg-logo="" group-title="3rstv",3RsTV
+https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
